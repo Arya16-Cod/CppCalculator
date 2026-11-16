@@ -1,2 +1,2 @@
 # CppCalculator
-A menu-driven calculator built using C++ that performs basic arithmetic operations, with basic error handling and an interactive console interface.
+A simple C++ calculator that performs basic arithmetic operations, featuring basic error handling and an interactive console interface.
