@@ -7,6 +7,8 @@ A simple calculator built using C++ that performs basic arithmetic operations wi
 - Subtraction
 - Multiplication
 - Division
+- Modulus
+- Power
 - Basic error handling
 - Interactive console interface
 
